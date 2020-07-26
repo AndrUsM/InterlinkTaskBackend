@@ -1,0 +1,1 @@
+export const new_line_regex: RegExp = /\r\n|\r|\n/g;
